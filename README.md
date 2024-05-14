@@ -1,6 +1,8 @@
 # CAMINO-108
 CAMINO-108
 
+Download page
+https://github.com/leslieyang-amec/CAMINO-108/releases
 
 | Date | Firmware Version | Description of changes |
 | -- | -- | -- |
