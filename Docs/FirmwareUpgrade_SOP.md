@@ -1,8 +1,5 @@
 # Firmware Upgrade SOP
 
-## Setups
-
-
 ## 1, disconnect the CAMINO-108 with PC
 
 ## 2, run the firmware upgrade application with administrator privileges
