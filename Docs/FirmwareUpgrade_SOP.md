@@ -18,7 +18,7 @@
 
 ![Initial](./pic/FWUpgrade_BeforeStart.png)
 
-## 6, ress "Next" button
+## 6, press the "Next" button
 
 ![Initial](./pic/FWUpgrade_DeviceInfo.png)
 
