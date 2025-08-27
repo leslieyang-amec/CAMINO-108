@@ -5,19 +5,19 @@
 
 ## 1, disconnect the CAMINO-108 with PC
 
-## 2, execute firmware upgrade application
+## 2, run the firmware upgrade application with administrator privileges
 
 ![RunAdAdministrator](./pic/FWUpgrade_RunAdAdmin.PNG)
 
-## 3, make sure the deivce power is off and USB is disconnected, press "OK" button
+## 3, make sure the device power is off and the USB is disconnected, press "OK" button
 
 ![Initial](./pic/FWUpgrade_0.PNG)
 
-## 4, wait for initializing
+## 4, wait for initialization
 
 ![Initial](./pic/FWUpgrade_Initializing.PNG)
 
-## 5, power on the deivce and connect with computer via USB, press "Start" button
+## 5, power on the device and connect with the computer via USB, press the "Start" button
 
 ![Initial](./pic/FWUpgrade_BeforeStart.png)
 
@@ -29,6 +29,6 @@
 
 ![Initial](./pic/FWUpgrade_InProgress.png)
 
-## 8, firmware upgrasde complete, press "Finish" button
+## 8, firmware upgrade complete, press the "Finish" button
 
 ![Initial](./pic/FWUpgrade_Finish.png)
