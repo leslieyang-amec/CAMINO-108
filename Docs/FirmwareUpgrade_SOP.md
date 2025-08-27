@@ -9,7 +9,7 @@
 
 ![RunAdAdministrator](./pic/FWUpgrade_RunAdAdmin.PNG)
 
-## 3, make sure the device power is off and the USB is disconnected, press "OK" button
+## 3, make sure the device power is off and the USB is disconnected, press the "OK" button
 
 ![Initial](./pic/FWUpgrade_0.PNG)
 
