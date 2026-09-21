@@ -14,8 +14,8 @@
 
 ## 3, Make sure the device power is off and the USB is disconnected, then press the "OK" button
 
-= A dialog box will prompt: "Please make sure the device power is Off and USB is disconnected from the computer."
-= Verify both conditions, then click OK.
+- A dialog box will prompt: "Please make sure the device power is Off and USB is disconnected from the computer."
+- Verify both conditions, then click OK.
 
 ![Initial](./pic/FWUpgrade_0.PNG)
 
