@@ -30,7 +30,7 @@
 
 -	Power ON the CAMINO-108 unit. 
 -	Connect the unit to your PC via the USB cable. 
--	Click Start. 
+-	Click **Start**. 
 
 ![Initial](./pic/FWUpgrade_BeforeStart.png)
 
